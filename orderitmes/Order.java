@@ -5,7 +5,7 @@ public class Order {
     public boolean ready;
     ArrayList<items> item = new ArrayList<items>();
 
-        public Order(String name,double total,boolean ready, items item ) {
+    public Order(String name,double total,boolean ready, items item ) {
         this.name = name;
         this.total = total;
         this.ready = ready;
