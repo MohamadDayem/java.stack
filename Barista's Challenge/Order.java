@@ -12,6 +12,14 @@ this. items = new ArrayList<Item>();
 
 }
 
+public Order (String name){
+
+this.name=name;
+this. items = new ArrayList<Item>();
+
+
+}
+
 public void addItem(Item item){
     items.add(item);
 }
@@ -24,7 +32,7 @@ public String getStatusMessage(){
 
 public double getOrderTotal(){
     double total = 0;
-    for(Item item : items){
+    for (Item item : items) {
         total += item.getPrice();
     }
     return total;
@@ -38,13 +46,7 @@ public void display(){
     System.out.println("Total: $"+getOrderTotal());
 }
 
-public Order (String name){
 
-this.name=name;
-this. items = new ArrayList<Item>();
-
-
-}
 public String getName(){
     return this.name;
 }
