@@ -1458,3 +1458,23 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2023-07-15 21:57:59,284 [Worker-28: Launching dilchipathvariables - DilchipathvariablesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-07-15 21:57:59,293 [Worker-28: Launching dilchipathvariables - DilchipathvariablesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-07-15 21:57:59,304 [Worker-28: Launching dilchipathvariables - DilchipathvariablesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\OneDrive\Bureau\java_stack\java.stack\dilchipathvariables\src\test\resources
+2023-07-15 23:45:00,946 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-15 23:48:43,862 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:hellohuman:0.0.1-SNAPSHOT @ C:\Users\user\OneDrive\Bureau\java_stack\java.stack\hellohuman\pom.xml.
+2023-07-15 23:48:48,701 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellohuman/src/main/java
+2023-07-15 23:48:48,702 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellohuman/src/main/resources
+2023-07-15 23:48:48,723 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellohuman/src/main/resources
+2023-07-15 23:48:48,749 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellohuman/src/test/java
+2023-07-15 23:48:50,749 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-07-15 23:48:50,753 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-15 23:48:51,292 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:hellohuman:0.0.1-SNAPSHOT @ C:\Users\user\OneDrive\Bureau\java_stack\java.stack\hellohuman\pom.xml.
+2023-07-15 23:48:52,419 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellohuman/src/main/java
+2023-07-15 23:48:52,420 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellohuman/src/main/resources
+2023-07-15 23:48:52,421 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellohuman/src/main/resources
+2023-07-15 23:48:52,423 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellohuman/src/test/java
+2023-07-15 23:48:53,424 [Worker-7: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for hellohuman
+2023-07-15 23:48:53,439 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-07-15 23:48:54,251 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-15 23:48:54,295 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-15 23:48:54,307 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\OneDrive\Bureau\java_stack\java.stack\hellohuman\src\test\resources
+2023-07-15 23:48:54,308 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of hellohuman
+2023-07-15 23:48:54,309 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for hellohuman
