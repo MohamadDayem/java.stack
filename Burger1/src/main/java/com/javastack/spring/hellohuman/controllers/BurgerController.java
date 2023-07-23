@@ -78,7 +78,7 @@ public class BurgerController {
 	        burgerService.delete(id);
 	        return "redirect:/";
 	    }
-	    
+	   
 	    }
 
 	
