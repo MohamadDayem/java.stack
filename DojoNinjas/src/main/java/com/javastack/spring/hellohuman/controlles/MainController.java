@@ -47,7 +47,7 @@ public class MainController {
 	  return "newninja.jsp";
 	  
   }
-  @PostMapping("/ninjasadd")
+  @PostMapping("/ninjasadd")  // form creat\\
   public String home (@Valid @ModelAttribute("ninjas")ninjas ninjas,BindingResult result, Model model) {
   	if(result.hasErrors()) {
 		return "newninja.jsp";
